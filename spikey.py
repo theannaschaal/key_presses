@@ -6,6 +6,7 @@ from keras.layers import Conv1D
 from data_sort import *
 
 
+
 f1 = 'data/alphabet_02_19'
 f2 = 'data/alphabet_02_19_logkeys'
 
